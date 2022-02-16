@@ -2,6 +2,8 @@
 
 This is a custom Jekyll theme used for testing
 
+It is based from theme: minima
+
 ## Installation
 
 ## Features
